@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0084-largest-rectangle-in-histogram) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
