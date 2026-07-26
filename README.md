@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3536-maximum-product-of-two-digits) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0085-maximal-rectangle) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Stack
@@ -64,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
