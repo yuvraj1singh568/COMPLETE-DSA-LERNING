@@ -163,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0146-lru-cache) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
