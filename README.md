@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0085-maximal-rectangle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0146-lru-cache) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Doubly-Linked List
