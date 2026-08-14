@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0176-second-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0627-swap-sex-of-employees) |
 ## Greedy
