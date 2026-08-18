@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -214,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0938-range-sum-of-bst) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
