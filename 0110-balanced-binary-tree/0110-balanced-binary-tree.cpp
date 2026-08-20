@@ -1,19 +1,20 @@
+struct Data{
+    int height = 0;
+    bool isBalanced = true;
+};
 class Solution {
- int findheight(TreeNode* root){
-    if(root == NULL) return 0;
-    int lh= findheight(root->left);
-    int rh= findheight(root->right);
-    return  1+ max(lh,rh);
-  
- }
+     Data Solve(TreeNode* root){
+      if(root == NULL) return Data();
+      auto leftAns = Solve(root->left);
+      auto rightAns = Solve(root->right);
+
+      Data ans;
+      ans.height = 1 + max(leftAns.height , rightAns.height);
+      ans.isBalanced = leftAns.isBalanced and rightAns.isBalanced and abs(leftAns.height - rightAns.height) <= 1;
+      return ans;
+     }
 public:
     bool isBalanced(TreeNode* root) {
-       if(root == NULL) return true;
-      int lh = findheight(root->left);      
-      int rh = findheight(root->right);
-      if(abs(lh-rh)>1){
-        return false;
-      }      
-      return isBalanced(root->left) and isBalanced(root->right);
+    return Solve(root).isBalanced;    
     }
 };
