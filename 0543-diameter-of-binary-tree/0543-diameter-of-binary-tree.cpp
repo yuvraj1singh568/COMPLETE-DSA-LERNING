@@ -1,17 +1,19 @@
+struct Data{
+    int height = 0;
+    int diameter = 0;
+};
 class Solution {
- int findheight(TreeNode* root){
-   if(root == NULL) return 0;
-   int lh = findheight(root->left);
-   int rh = findheight(root->right);
-   return 1+max(lh,rh);
+ Data Solve(TreeNode* root){
+   if(root == NULL) return Data();
+   auto leftAns = Solve(root->left);
+   auto rightAns = Solve(root->right);
+   Data ans;
+   ans.height = 1 + max(leftAns.height,rightAns.height);
+   ans.diameter = max({leftAns.diameter,rightAns.diameter,leftAns.height+rightAns.height});
+   return ans;
  }
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-           if(root == NULL) return 0;
-           int lh = findheight(root->left);        
-           int rh = findheight(root->right); 
-           int leftAns = diameterOfBinaryTree(root->left);       
-           int rightAns = diameterOfBinaryTree(root->right);
-           return max({leftAns,rightAns,lh+rh});       
+         return Solve(root).diameter;
     }
 };
