@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search Tree
 |  |
 | ------- |
