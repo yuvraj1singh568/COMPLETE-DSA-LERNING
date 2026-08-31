@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0085-maximal-rectangle) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0085-maximal-rectangle) |
 ## Bit Manipulation
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0146-lru-cache) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -267,4 +270,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
