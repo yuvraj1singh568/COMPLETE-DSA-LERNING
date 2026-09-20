@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0518-coin-change-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0912-sort-an-array) |
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0518-coin-change-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0518-coin-change-ii) |
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
 ## Matrix
 |  |
@@ -301,4 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3903-smallest-stable-index-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
