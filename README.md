@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0518-coin-change-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
