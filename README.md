@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0628-maximum-product-of-three-numbers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0912-sort-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0912-sort-an-array) |
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0518-coin-change-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
 ## Matrix
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search Tree
