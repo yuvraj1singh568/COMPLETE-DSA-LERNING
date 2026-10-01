@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0072-edit-distance](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0179-largest-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0146-lru-cache) |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
