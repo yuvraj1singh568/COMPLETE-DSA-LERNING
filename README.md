@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0516-longest-palindromic-subsequence](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0179-largest-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0516-longest-palindromic-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
