@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0179-largest-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0516-longest-palindromic-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
