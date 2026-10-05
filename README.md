@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3903-smallest-stable-index-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
 | [1092-shortest-common-supersequence](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Matrix
 |  |
 | ------- |
