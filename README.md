@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1092-shortest-common-supersequence) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0301-remove-invalid-parentheses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0301-remove-invalid-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
