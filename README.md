@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0232-implement-queue-using-stacks) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
