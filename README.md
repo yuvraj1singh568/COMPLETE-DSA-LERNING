@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0232-implement-queue-using-stacks) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search Tree
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
 | ------- |
