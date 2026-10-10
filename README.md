@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3536-maximum-product-of-two-digits) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0938-range-sum-of-bst) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Lifting
 |  |
 | ------- |
