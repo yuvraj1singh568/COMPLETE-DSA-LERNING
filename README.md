@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0146-lru-cache) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search Tree
 |  |
 | ------- |
