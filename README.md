@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0020-valid-parentheses) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0037-sudoku-solver) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Longest Common Subsequence
 |  |
