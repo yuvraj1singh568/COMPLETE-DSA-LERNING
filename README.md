@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -107,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
 | [1092-shortest-common-supersequence](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0085-maximal-rectangle) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Sliding Window
 |  |
 | ------- |
