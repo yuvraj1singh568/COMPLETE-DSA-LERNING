@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0229-majority-element-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0518-coin-change-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0229-majority-element-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0912-sort-an-array) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0229-majority-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
