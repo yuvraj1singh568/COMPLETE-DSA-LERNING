@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3903-smallest-stable-index-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Doubly-Linked List
 |  |
 | ------- |
