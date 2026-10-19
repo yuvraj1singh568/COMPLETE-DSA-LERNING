@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0088-merge-sorted-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0179-largest-number) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0088-merge-sorted-array) |
 ## Tree
 |  |
@@ -452,4 +455,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
