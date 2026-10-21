@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting Sort
 |  |
 | ------- |
