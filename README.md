@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0912-sort-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0912-sort-an-array) |
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
+| [1254-number-of-closed-islands](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1254-number-of-closed-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0085-maximal-rectangle) |
+| [1254-number-of-closed-islands](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bit Manipulation
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0301-remove-invalid-parentheses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1254-number-of-closed-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Backtracking
