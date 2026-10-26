@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3886-sum-of-sortable-integers) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0085-maximal-rectangle) |
 | [1254-number-of-closed-islands](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0301-remove-invalid-parentheses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
