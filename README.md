@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2409-count-days-spent-together) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -496,4 +498,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0075-sort-colors) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
