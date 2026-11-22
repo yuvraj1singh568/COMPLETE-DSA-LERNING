@@ -1,6 +1,8 @@
 class Solution {
 public:
     bool checkString(string s) {
-       return s.find("ba")== string::npos; 
+        string t=s;
+        sort(s.begin(),s.end());
+        return t==s;
     }
 };
