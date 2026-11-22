@@ -1,8 +1,6 @@
 class Solution {
 public:
     bool checkString(string s) {
-        string t=s;
-        sort(s.begin(),s.end());
-        return t==s;
+        return is_sorted(begin(s),end(s));
     }
 };
