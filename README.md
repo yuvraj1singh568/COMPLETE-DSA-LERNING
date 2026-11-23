@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0628-maximum-product-of-three-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2409-count-days-spent-together) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0912-sort-an-array) |
 | [1024-video-stitching](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1024-video-stitching) |
 | [1254-number-of-closed-islands](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1352-product-of-the-last-k-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3903-smallest-stable-index-i) |
 ## Knapsack Problem
 |  |
@@ -515,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
