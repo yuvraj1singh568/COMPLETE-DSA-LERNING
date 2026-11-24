@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3536-maximum-product-of-two-digits) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3886-sum-of-sortable-integers) |
 ## Design
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -523,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/yuvraj1singh568/COMPLETE-DSA-LERNING/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
