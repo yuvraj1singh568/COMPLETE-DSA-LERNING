@@ -1,43 +1,43 @@
 class Solution {
-private:
-    long long gcd(long long a, long long b) {
-        while (b) {
-            long long temp = b;
-            b = a % b;
-            a = temp;
-        }
-        return a;
-    }
-
-    long long lcm(long long a, long long b) {
-        return (a / gcd(a, b)) * b;
-    }
-
 public:
+    static constexpr int masks[] = {
+        0,     
+        0,     
+        1 << 2,     
+        1 << 3,     
+        1 << 2,     
+        1 << 5,     
+        (1 << 3) | (1 << 2),     
+        1 << 7,     
+        1 << 2,     
+        1 << 3,     
+        (1 << 2) | (1 << 5)      
+    };
+    bool checkDivs(int divs_mask, int num){
+        return divs_mask & masks[num];
+    }
+    void addDivs(int& divs_mask, int num){
+        divs_mask = divs_mask | masks[num];
+    }
+    void removeDivs(int& divs_mask, int num){
+        divs_mask = divs_mask & (~masks[num]);
+    }
     int maxLength(vector<int>& nums) {
-        int n = static_cast<int>(nums.size());
-        int max_len = 0;
-        for (int i = 0; i < n; i++) {
-            long long current_prod = 1;
-            long long current_gcd = nums[i];
-            long long current_lcm = nums[i];
+        int left = 0;
+        int right = 1;
+        int divs_mask = 0;
+        addDivs(divs_mask, nums[0]);
 
-            for (int j = i; j < n; j++) {
-                if (current_prod > 1000000000000LL / nums[j]) {
-                    current_prod = 2000000000000LL;
-                } else {
-                    current_prod *= nums[j];
-                }
-
-                if (j > i) {
-                    current_gcd = gcd(current_gcd, nums[j]);
-                    current_lcm = lcm(current_lcm, nums[j]);
-                }
-
-                if (current_prod == current_lcm * current_gcd) {
-                    max_len = max(max_len, j - i + 1);
-                }
+        int n = nums.size();
+        int max_len = 2;
+        while(right < n){
+            while(checkDivs(divs_mask, nums[right]) && left < right){
+                removeDivs(divs_mask, nums[left]);
+                ++left;
             }
+            addDivs(divs_mask, nums[right]);
+            max_len = std::max(max_len, right - left + 1);
+            ++right;
         }
         return max_len;
     }
